@@ -1,0 +1,10 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "SqlConnectionString": "Server=tcp:av02icl54554086.database.windows.net,1433;Initial Catalog=db;User ID=adminuser;Password=SenhaForteLab!2026a;Encrypt=True;",
+    "DOCUMENT_INTELLIGENCE_API_KEY": "LQdp9aon203sUEolM6oFxjKjA9G8xaMTDu61qTfdiBk4jiEEAkmAJQQJ99CEACZoyfiXJ3w3AAALACOGuUDE",
+    "DOCUMENT_INTELLIGENCE_ENDPOINT": "https://brazilsouth.api.cognitive.microsoft.com/",
+    "FUNCTIONS_WORKER_RUNTIME": "node"
+  }
+}
